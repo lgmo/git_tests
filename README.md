@@ -1,6 +1,6 @@
 # git_tests
 
-`python
+`python:
 while True:
   print('eta preula')
 `
